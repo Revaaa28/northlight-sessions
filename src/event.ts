@@ -30,11 +30,11 @@ export interface Set {
 }
 
 export const lineup: Set[] = [
-  { time: "19:00", artist: "Pijar", note: "slow-burn post-rock to open the room" },
-  { time: "20:00", artist: "Mata Kiri", note: "left-field dangdut electronics" },
+  { time: "19:00", artist: "Emberline", note: "slow-burn post-rock to open the room" },
+  { time: "20:00", artist: "Mirror District", note: "left-field electronics, all hardware, no laptops" },
   { time: "21:15", artist: "June & The Frequencies", note: "dream pop, all analog synths" },
   { time: "22:30", artist: "The Fernweh Club", note: "krautrock for dancing" },
-  { time: "23:45", artist: "Kala Rupa", note: "the full seven-piece, closing set" },
+  { time: "23:45", artist: "Hollow Sun", note: "the full seven-piece, closing set" },
 ];
 
 export const order = {
